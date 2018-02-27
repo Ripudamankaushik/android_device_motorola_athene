@@ -25,6 +25,7 @@ import android.os.Vibrator;
 import android.util.Log;
 
 import org.lineageos.settings.device.SensorAction;
+import org.lineageos.settings.device.FlashDevice;
 
 public class TorchAction implements SensorAction {
     private static final String TAG = "LineageActions";
